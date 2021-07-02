@@ -1,0 +1,13 @@
+{
+  "name": "codemirror-plugin-analytics",
+  "version": "1.0.0",
+  "description": "Codemirror plugin for enabling analytics",
+  "main": "index.js",
+  "keywords": [
+    "codemirror",
+    "plugin",
+    "analytics"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT"
+}
